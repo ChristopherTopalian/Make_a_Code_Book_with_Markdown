@@ -1,0 +1,20 @@
+/* Dedicated to God the Father */
+/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2024 */
+/* https://github.com/ChristopherTopalian */
+/* https://github.com/ChristopherAndrewTopalian */
+/* style001.css */
+
+pre
+{
+    background-color: rgb(0, 0, 0);
+    border: solid 2px rgb(0, 150, 150);
+    font-weight: bold;
+}
+
+pre code
+{
+    background-color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
+
